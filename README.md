@@ -1,4 +1,3 @@
-Visit to website https://xpenso.netlify.app/
 
 # Getting Started with Create React App
 
